@@ -10,9 +10,9 @@ twitter_username: codingdoctor
 github_username:  codingdoctor
 
 # About/contact
-author: SJ Lee
-  baseurl: "codingdoctor.GitHub" # the subpath of your site, e.g. /blog
-  url: "" # the base hostname & protocol for your site, e.g. http://example.com
+author: "SJ Lee"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://codingdoctor.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Gems
 gems:
